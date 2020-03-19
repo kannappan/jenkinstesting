@@ -1,3 +1,3 @@
-msg = "how are you coronaaaaaa!!!!!"
+msg = "how are you corona virus!!!!!"
 
 print(msg)
