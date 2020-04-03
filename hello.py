@@ -1,3 +1,3 @@
-msg = "Hai jenkins.....deploy in training server"
+msg = "Hai jenkins.....1st time deploy in training server"
 
 print(msg)
